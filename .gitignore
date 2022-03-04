@@ -67,6 +67,7 @@ local.properties
 nbproject/private/
 build/
 nbbuild/
+out/
 dist/
 nbdist/
 nbactions.xml
@@ -82,3 +83,5 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+# Ignore Gradle build output directory
+build
